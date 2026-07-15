@@ -7,6 +7,7 @@ PRISMA 2020 flow diagram generator web app for reviews
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![PRISMA 2020](https://img.shields.io/badge/PRISMA-2020-blue.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21373605.svg)](https://doi.org/10.5281/zenodo.21373605)
 
 ## 주요 기능
 
@@ -35,7 +36,7 @@ PRISMA 2020 흐름도 양식은 [PRISMA statement](https://www.prisma-statement.
 
 **이 도구 자체의 인용은 필수가 아닙니다** — 원고에 필요한 인용은 위의 PRISMA 원 논문입니다. 그래도 이 도구를 언급하고 싶으시다면 아래 형식을 사용하실 수 있습니다:
 
-> Park, S. (2026). PRISMA 2020 Flow Diagram Generator (Version 1.0.0) [Computer software]. https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-generator
+> Park, S. (2026). PRISMA 2020 Flow Diagram Generator (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21373605
 
 ## 라이선스
 
