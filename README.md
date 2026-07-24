@@ -7,7 +7,7 @@ PRISMA 2020 flow diagram generator web app for reviews
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![PRISMA 2020](https://img.shields.io/badge/PRISMA-2020-blue.svg)
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21373605.svg)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21373605-blue.svg)](https://doi.org/10.5281/zenodo.21373605)
 
 ## 주요 기능
 
